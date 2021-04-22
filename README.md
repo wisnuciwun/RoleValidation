@@ -19,7 +19,7 @@
 
 :paperclip: Example :
 ```js
-if(RoleUser(process.env.REACT_APP_ROLE_ADMIN))
+if(RoleUser(process.env.REACT_APP_ROLE_USER))
 {
   this.executeDownload()
 }
