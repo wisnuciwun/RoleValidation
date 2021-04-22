@@ -14,8 +14,7 @@
 
 
 :phone: Parameters :
-
-no need parameter
+- no need parameter
 
 
 :paperclip: Example :
